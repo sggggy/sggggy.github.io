@@ -1,2 +1,2 @@
-# coach.sggggy.github.io
+# sggggy.github.io
 个人品牌打造
