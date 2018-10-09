@@ -2,7 +2,7 @@
 
 ### 个人品牌介绍
 
-请先阅读** [教练与导师的区别](https://www.jianshu.com/p/9d14e5bb7313)。这将决定你如何发文以及如何与我配合。同样的，这也是我最先思考的事。
+请先阅读 [教练与导师的区别](https://www.jianshu.com/p/9d14e5bb7313)。这将决定你如何发文以及如何与我配合。同样的，这也是我最先思考的事。
 
 最优秀和最聪明的人都有教练和导师，这两个角色可以在生活中给他们客观的忠告和智慧。
 
@@ -25,7 +25,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[2018-10-09 新员工入职IT指南]
+[2018-10-09 新员工入职IT指南]（C:\Github\sggggy.github.io\docs\2018-10-09 新员工入职IT指南.md）
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
