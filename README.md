@@ -21,38 +21,9 @@
 *   **目标与关键结果OKR实践：** 引入OKR目标设定实践方法，为需要进行KPI转型OKR的团队进行实践与引导，保障其顺利过渡和完成追逐目标。
 *   **运维技术学习框架** 根据10年的运维经验，为新晋运维同学提供完整的运维教学框架，以及跟进运维工作中遇到的实际内容，调整知识学习内容以及实践内容，提升运维能力以及职位竞争力。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 目录
 
-### Markdown
-
-[2018-10-09 新员工入职IT指南]（C:\Github\sggggy.github.io\docs\2018-10-09 新员工入职IT指南.md）
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sggggy/sggggy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [敏捷 Scrum](https://sggggy.github.io/docs/scrum)
+- [PoseMethod 骑 游 跑](https://sggggy.github.io/docs/posemethod)
+- [持续部署/集成](https://sggggy.github.io/docs/cdci)
+- [IT](https://sggggy.github.io/docs/it)
