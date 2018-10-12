@@ -27,7 +27,7 @@
 
 # 联系方式
 
-- Email：sggggy@gmail.com （```虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G```）
+- Email：[](mailto:sggggy@gmail.com)（```虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G```）
 - QQ号：29759744（请注明**来自github.io**）
 
 ---
