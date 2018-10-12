@@ -1,3 +1,5 @@
+### 2018-09-29-冲刺取消
+
 Scrum指南对 [产品负责人](https://medium.com/serious-scrum/the-product-owner-6b7a63fef8fe) 取消冲刺的权利持保守态度。
 
 > “冲刺取消通常会对Scrum团队造成创伤，并且是非常罕见的行为。” —— Scrum Guide。
