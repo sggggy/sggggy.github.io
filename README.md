@@ -23,7 +23,9 @@
 
 ### 教学目录
 
-- [敏捷 Scrum](https://sggggy.github.io/docs/scrum)
-- [PoseMethod 骑 游 跑](https://sggggy.github.io/docs/posemethod)
-- [持续部署/集成](https://sggggy.github.io/docs/cdci)
-- [IT](https://sggggy.github.io/docs/it)
+- [敏捷 Scrum](https://sggggy.github.io/docs/scrum/index)
+- [PoseMethod 骑 游 跑](https://sggggy.github.io/docs/posemethod/index)
+- [持续部署/集成](https://sggggy.github.io/docs/cdci/index)
+- [IT](https://sggggy.github.io/docs/it/index)
+
+### 联系方式
