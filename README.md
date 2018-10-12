@@ -1,6 +1,6 @@
 ## 欢迎来到我的主页
 
-### 个人品牌介绍
+### 个人介绍
 
 请先阅读 [教练与导师的区别](https://www.jianshu.com/p/9d14e5bb7313)。这将决定你如何发文以及如何与我配合。同样的，这也是我最先思考的事。
 
@@ -29,3 +29,5 @@
 - [IT](https://sggggy.github.io/docs/it/index)
 
 ### 联系方式
+
+- [邮件](mailto:sggggy@gmail.com)
