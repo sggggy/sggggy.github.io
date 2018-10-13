@@ -1,5 +1,7 @@
-### 敏捷知识库
---
+### 敏捷方法与套路
+---
+敏捷方法(method)与套路（kata）仓库
+---
 
 * [2018-09-29-Stand-up-Meetings-站会](https://sggggy.github.io/docs/scrum/2018-09-29-Stand-up-Meetings-站会)
 * [2018-09-29-Sprint-Cancellation-冲刺取消](https://sggggy.github.io/docs/scrum/2018-09-29-Sprint-Cancellation-冲刺取消)
