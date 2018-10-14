@@ -91,6 +91,7 @@
 
  - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
  - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+ - [Khan Academy translations](https://crowdin.com/profile/sggggy): 可汗学院中文本地化项目
 
 ## 技术文章
 （挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
