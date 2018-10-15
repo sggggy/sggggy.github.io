@@ -1,6 +1,5 @@
-### 敏捷方法与套路
----
-敏捷方法(method)与套路（kata）仓库
+## 敏捷方法(method)与套路（kata）仓库
+
 ---
 
 * [2018-10-15-如何有效使用JIRA的子任务](https://sggggy.github.io/docs/scrum/2018-10-15-如何有效使用JIRA的子任务)
