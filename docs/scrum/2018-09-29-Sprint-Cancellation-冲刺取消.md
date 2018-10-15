@@ -1,4 +1,4 @@
-### 2018-09-29-冲刺取消
+# 2018-09-29-冲刺取消
 
 Scrum指南对 [产品负责人](https://medium.com/serious-scrum/the-product-owner-6b7a63fef8fe) 取消冲刺的权利持保守态度。
 
@@ -42,7 +42,7 @@ Scrum指南对 [产品负责人](https://medium.com/serious-scrum/the-product-o
 
 尽管如此，取消冲刺会干扰这种一致性。
 
-> “everyone regroups in another Sprint Planning to start another Sprint”* — The Scrum Guide* “每个人都需要重新进行冲刺规划，以开启新一次冲刺” *- Scrum指南*
+> “每个人都需要重新进行冲刺规划，以开启新一次冲刺” *- Scrum指南*
 
 有时Scrum团队选择缩短冲刺评审和冲刺回顾，认为这样能够有效缩短冲刺消耗。但与此同时，提升了项目复杂性。就个人而言，我认为Scrum团队最好确定哪种方法最适合他们所处的情况。毕竟，这样的情况非常特殊。
 
