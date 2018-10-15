@@ -2,6 +2,10 @@
 
 ---
 
+整理与记录敏捷实践过程中学习的理论，实践套路和感悟
+
+---
+
 * [2018-10-15-结对编程](https://sggggy.github.io/docs/scrum/2018-10-15-Pair-Programming)
 * [2018-10-15-如何有效使用JIRA的子任务](https://sggggy.github.io/docs/scrum/2018-10-15-如何有效使用JIRA的子任务)
 * [2018-09-29-Stand-up-Meetings-站会](https://sggggy.github.io/docs/scrum/2018-09-29-Stand-up-Meetings-站会)
