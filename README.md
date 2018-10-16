@@ -4,7 +4,7 @@
 
 ### 个人介绍
 
-可以通过我的[简历](https://sggggy.github.io/blog/resume)了解本人的职业生涯。
+可以通过个人[简历](https://sggggy.github.io/blog/resume)了解本人的职业生涯。
 
 如果您愿意聘用我为教练，请先阅读 [教练与导师的区别](https://sggggy.github.io/blog/2018-10-12-coach-mentor)。这将决定您如何发问以及如何与我配合。同样的，这也是我最先思考的事。
 
