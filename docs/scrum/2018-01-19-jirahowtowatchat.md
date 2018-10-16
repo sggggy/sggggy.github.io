@@ -64,3 +64,9 @@ Jira可以让相关人员保持对事务的知会，并关注在你关心的问�
 ```
 [cc lang ='sql']（text〜currentUser（））AND updatedDate> = -7d ORDER BY updated DESC [/ cc]
 ```
+
+---
+
+## 感谢您阅读我的文章
+
+![请支持我的创作](https://sggggy.github.io/images/rewards_code.jpg)

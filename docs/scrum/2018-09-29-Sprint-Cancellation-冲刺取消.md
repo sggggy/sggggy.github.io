@@ -67,3 +67,9 @@ Scrum指南对 [产品负责人](https://medium.com/serious-scrum/the-product-o
 在短时间内调整适应，本身也降低了风险。这时候去取消冲刺，反而会带来不必要的麻烦。所以有时候为了保持节奏而不敢取消冲刺，也是不好的。
 
 所以产品负责人，需要谨慎使用取消冲刺的权利。
+
+---
+
+## 感谢您阅读我的文章
+
+![请支持我的创作](https://sggggy.github.io/images/rewards_code.jpg)

@@ -112,3 +112,10 @@
 # 相关文献
 
  [结对编程的正确姿势，你会了吗？](https://insights.thoughtworks.cn/pair-programming/) 
+ 
+ 
+---
+
+## 感谢您阅读我的文章
+
+![请支持我的创作](https://sggggy.github.io/images/rewards_code.jpg)
