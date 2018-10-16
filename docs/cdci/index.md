@@ -6,4 +6,4 @@
 
 ---
 
-* [2018-10-16-ChatOps](https://sggggy.github.io/docs/scrum/2018-10-16-chatops)
+* [2018-10-16-ChatOps](https://sggggy.github.io/docs/cdci/2018-10-16-chatops)
