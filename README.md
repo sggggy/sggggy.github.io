@@ -50,7 +50,8 @@
 └─── 检查与监控
 └─── PoseMethod 骑游跑
 ```
-
+---
+## 教学品类
 
 |**职业类**|**爱好类**|
 |:-:|:-:|:-:|:-:|
@@ -62,8 +63,8 @@
 
 ## 联系方式
 
-- [邮件](mailto:sggggy@gmail.com)
-- QQ : 29759744
+- 邮件： [sggggy@gmail.com](mailto:sggggy@gmail.com)
+- QQ： 29759744
 
 ---
 
