@@ -6,5 +6,5 @@
 
 ---
 
-
+* [2018-10-25-如何高效开会](https://sggggy.github.io/docs/it/2018-10-25-如何高效开会)
 * [2018-10-09 新员工入职IT指南](https://sggggy.github.io/docs/it/2018-10-09-新员工入职IT指南)
