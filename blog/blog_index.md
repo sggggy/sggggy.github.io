@@ -6,5 +6,5 @@
 
 ---
 
-* [2018-10-26-36组才干题表现与潜能节选](https://sggggy.github.io/docs/scrum/2018-10-26-36组才干题表现与潜能节选)
-* [2018-10-12 导师与教练的区别](https://sggggy.github.io/docs/scrum/2018-10-12-coach-mentor)
+* [2018-10-26-36组才干题表现与潜能节选](https://sggggy.github.io/docs/blog/2018-10-26-36组才干题表现与潜能节选)
+* [2018-10-12 导师与教练的区别](https://sggggy.github.io/docs/blog/2018-10-12-coach-mentor)
