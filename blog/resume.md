@@ -62,8 +62,8 @@
 
 |端游|手游|H5|
 |:-|:-|:-|
-|![](https://sggggy.github.io/images/games-ws.png)|![](https://sggggy.github.io/images/p22.png.png)|![](https://sggggy.github.io/images/games-jzmy.png)|
-|![](https://sggggy.github.io/images/games-mx.png)|![](https://sggggy.github.io/images/p29.png.png)||
+|![](https://sggggy.github.io/images/games-ws.png)|道友请留步<br />![](https://sggggy.github.io/images/p22.png)|![](https://sggggy.github.io/images/games-jzmy.png)|
+|![](https://sggggy.github.io/images/games-mx.png)|文明大爆炸<br />![](https://sggggy.github.io/images/p29.png)||
 
 ---
 
