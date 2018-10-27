@@ -58,6 +58,13 @@
 3. 拟定部门人员培养战略，针对员工特性进行培养与工作安排，为公司培养了多名可靠运维。
 4. 引入教练模式，引入Scrum，引入OKR，提高项目管理水平。
 
+### 项目展示
+
+|端游|手游|H5|
+|:-|:-|:-|
+|![](https://sggggy.github.io/images/games-ws.png)|![](https://sggggy.github.io/images/p22.png.png)|![](https://sggggy.github.io/images/games-jzmy.png)|
+|![](https://sggggy.github.io/images/games-mx.png)|![](https://sggggy.github.io/images/p29.png.png)||
+
 ---
 
 ## 厦门吉比特网络技术股份有限公司 （ 2008年6月 ~ 2011年3月 ）
