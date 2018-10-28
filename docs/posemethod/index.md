@@ -1,0 +1,9 @@
+\## 姿势跑法(posemethod)与套路（kata）仓库
+
+\---
+
+整理与记录姿势跑法教学实践过程中学习的理论，实践套路和感悟
+
+\---
+
+\* [2018-10-28 Mac下使用dlib的imglab标注图片](https://sggggy.github.io/docs/posemethod/2018-10-28 Mac下使用dlib的imglab标注图片)
