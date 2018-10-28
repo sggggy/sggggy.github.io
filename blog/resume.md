@@ -51,6 +51,8 @@
 5. 业务迁移至阿里云，与阿里展开深度合作，深入使用 ECS、SLB、OSS、OCS、RDS、云盾高防IP、弹性安全网络、CDN等。
 6. ITIL管理实践，为内部员工提供优质的IT服务。
 
+---
+
 ### 主要成果
 
 1. 保障《东方故事》、《魔侠传》、《道友请留步》、《决战荣耀》等游戏上线运维。
@@ -58,12 +60,14 @@
 3. 拟定部门人员培养战略，针对员工特性进行培养与工作安排，为公司培养了多名可靠运维。
 4. 引入教练模式，引入Scrum，引入OKR，提高项目管理水平。
 
+---
+
 ### 项目展示
 
 |端游|手游|H5|
 |:-|:-|:-|
-|![](https://sggggy.github.io/images/games-ws.png)|道友请留步<br />![](https://sggggy.github.io/images/p22.png)|![](https://sggggy.github.io/images/games-jzmy.png)|
-|![](https://sggggy.github.io/images/games-mx.png)|文明大爆炸<br />![](https://sggggy.github.io/images/p29.png)||
+|![](https://sggggy.github.io/images/games-ws.png)|[道友请留步](https://itunes.apple.com/cn/app/id874173594)<br />![](https://sggggy.github.io/images/p22.png)|![](https://sggggy.github.io/images/games-jzmy.png)|
+|![](https://sggggy.github.io/images/games-mx.png)|[文明大爆炸](https://itunes.apple.com/cn/app/id1399526309)<br />![](https://sggggy.github.io/images/p29.png)||
 
 ---
 
