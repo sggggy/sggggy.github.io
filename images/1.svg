@@ -1,0 +1,15 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+
+ <title>new_feature</title>
+ <desc>Created with Sketch.</desc>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="18" height="18" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="Rectangle-36" fill="#dd514e" x="1" y="1" width="14" height="14" rx="2"/>
+  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="4.312509" y="12.499994" id="svg_1" font-size="12" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold">1</text>
+ </g>
+</svg>
