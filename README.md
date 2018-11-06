@@ -2,6 +2,12 @@
 
 ---
 
+## 没有留言系统
+
+需要咨询的同学请在[Issues](https://github.com/sggggy/sggggy.github.io/issues/new/choose)中new单。
+
+---
+
 ### 个人介绍
 
 可以通过个人[简历](https://sggggy.github.io/blog/resume)以及[个人优势识别报告](https://sggggy.github.io/blog/2018-10-29-优势识别器测试报告)了解本人的职业生涯。
