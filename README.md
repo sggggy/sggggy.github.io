@@ -71,7 +71,7 @@
 
 - 邮件： [sggggy@gmail.com](mailto:sggggy@gmail.com)
 - QQ： 29759744
-- 简书：https://www.jianshu.com/u/b0022f0db64f
+- Github：https://github.com/sggggy/sggggy.github.io/issues
 
 ---
 
