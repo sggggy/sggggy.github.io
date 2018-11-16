@@ -1,4 +1,4 @@
-##楔子
+## 楔子
 
 > ### 不理解或忽视技术债的人，不是因为不懂技术，而是不敬畏时间的代价。
 > ![](https://sggggy.github.io/images/makingawheel.png)
