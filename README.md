@@ -72,6 +72,7 @@
 - 邮件： [sggggy@gmail.com](mailto:sggggy@gmail.com)
 - QQ： 29759744
 - Github：https://github.com/sggggy/sggggy.github.io/issues
+- 团队知乎专栏： https://zhuanlan.zhihu.com/jzyxte
 
 ---
 
