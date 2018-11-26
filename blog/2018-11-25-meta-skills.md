@@ -7,9 +7,7 @@
 - 即兴表演的能力允许您在没有时间准备的任何情况下进行交流
 - 创建数据模型的功能可帮助您创建任何特定数据库
 
-
-
-**出处 https://www.quora.com/What-are-meta-skills **
+**出处**  https://www.quora.com/What-are-meta-skills 
 
 
 
