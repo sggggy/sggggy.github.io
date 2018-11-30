@@ -6,6 +6,7 @@
 
 ---
 
+* [技巧与技术](https://sggggy.github.io/blog/2018-11-30-technique_and_technology)
 * [2018-11-26-什么是快闪群](https://sggggy.github.io/blog/2018-11-26-快闪群)
 * [2018-11-25-什么是元技能](https://sggggy.github.io/blog/2018-11-25-meta-skills)
 * [2018-10-26-36组才干题表现与潜能节选](https://sggggy.github.io/blog/2018-10-26-36组才干题表现与潜能节选)
