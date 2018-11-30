@@ -4,7 +4,7 @@
 
 ------
 
-Agile software teams made retrospective meetings popular, but they're great for all teams. Here's how to run basic retrospectives, and how to adapt them to suit your team. Don't miss the real-life example retrospective notes below step 4!
+
 
 敏捷软件团队开展回顾会议是很流行的做法，而且适用于其他所有团队。以下是运作回顾会的基本流程，还有一些引导团队操作的小技巧。仔细阅读，不要错过下述四步玩转回顾会的指南！
 
