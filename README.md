@@ -24,12 +24,23 @@
 
 我的风格是——深入了解个人与团队，以及在参与活动同时发现表面下隐藏的机会与挑战。
 
-组织或个人寻求帮助的更典型需求是：
+组织或个人寻求提升的更典型需求是：
 
 *   **提升跑步的水平：** 我是[PoseMethod](https://posemethod.com/running/) 姿势跑法的认证教练。帮助跑者提高跑步技术，避免受伤，提高效率。通过姿势跑法9周训练课程，学习和纠正跑姿，针对已经固化的跑姿进行纠正。提供柔软和力量训练方案，提升跑步稳定性。
 *   **团队转型教练（敏捷教练）：** 帮助项目团队引入敏捷开发，指导团队重新规划角色，包括产品负责人、敏捷大师、开发团队。引入站会、冲刺规划会、回顾会、冲刺。引入故事、任务、障碍等必要术语。引入看板工具，团队协作工具等。教授敏捷大师等角色，实现团队自主驱动和运作。
 *   **目标与关键结果OKR实践：** 引入OKR目标设定实践方法，为需要进行KPI转型OKR的团队进行实践与引导，保障其顺利过渡和完成追逐目标。
-*   **运维技术学习框架** 根据10年的运维经验，为新晋运维同学提供完整的运维教学框架，以及跟进运维工作中遇到的实际内容，调整知识学习内容以及实践内容，提升运维能力以及职位竞争力。
+*   **运维技术学习框架：** 根据10年的运维经验，为新晋运维同学提供完整的运维教学框架，以及跟进运维工作中遇到的实际内容，调整知识学习内容以及实践内容，提升运维能力以及职位竞争力。
+
+---
+
+## 教学品类
+
+|**职业类**|**爱好类**|
+|:-:|:-:|
+|[敏捷 Scrum](https://sggggy.github.io/docs/scrum/index)|[PoseMethod 骑 游 跑](https://sggggy.github.io/docs/posemethod/index)|
+|[持续部署/集成](https://sggggy.github.io/docs/cdci/index)|[我的日志](https://sggggy.github.io/blog/blog_index)|
+|[IT技术](https://sggggy.github.io/docs/it/index)||
+
 
 ---
 
@@ -51,19 +62,11 @@
 │   │	├─── 自动打包
 │   │	└─── 自动发布
 │   └─── 结对合作
-│      ├─── 自动打包
-│      └─── 自动发布
+│      ├─── 结对编程
+│      └─── 结对策划
 └─── 检查与监控
 └─── PoseMethod 骑游跑
 ```
----
-## 教学品类
-
-|**职业类**|**爱好类**|
-|:-:|:-:|
-|[敏捷 Scrum](https://sggggy.github.io/docs/scrum/index)|[PoseMethod 骑 游 跑](https://sggggy.github.io/docs/posemethod/index)|
-|[持续部署/集成](https://sggggy.github.io/docs/cdci/index)|[我的日志](https://sggggy.github.io/blog/blog_index)|
-|[IT技术](https://sggggy.github.io/docs/it/index)||
 
 ---
 
