@@ -84,3 +84,4 @@
 感谢您浏览我的主页，为您提供一个组织团队行为的小技巧——使用看板与面对面交流，可以直观表达意愿，大幅提高交流效率。
 
 ![](https://sggggy.github.io/images/communication_channel_cold_hot.png)
+---
