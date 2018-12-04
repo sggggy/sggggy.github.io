@@ -5,7 +5,7 @@
 整理与记录生活中的感悟与实践。
 
 ---
-
+* [2018-12-4 运维部大电影](https://sggggy.github.io/blog/2018-12-4 运维部大电影)
 * [技巧与技术](https://sggggy.github.io/blog/2018-11-30-technique_and_technology)
 * [2018-11-26-什么是快闪群](https://sggggy.github.io/blog/2018-11-26-快闪群)
 * [2018-11-25-什么是元技能](https://sggggy.github.io/blog/2018-11-25-meta-skills)
