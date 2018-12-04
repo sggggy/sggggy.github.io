@@ -41,7 +41,6 @@
 |[持续部署/集成](https://sggggy.github.io/docs/cdci/index)|[我的日志](https://sggggy.github.io/blog/blog_index)|
 |[IT技术](https://sggggy.github.io/docs/it/index)||
 
-
 ---
 
 ## 教学目录
@@ -74,8 +73,8 @@
 
 - 邮件： [sggggy@gmail.com](mailto:sggggy@gmail.com)
 - QQ： 29759744
-- Github：https://github.com/sggggy/sggggy.github.io/issues
-- 团队知乎专栏： https://zhuanlan.zhihu.com/jzyxte
+- [Github](https://github.com/sggggy/sggggy.github.io/issues)
+- [团队知乎专栏](https://zhuanlan.zhihu.com/jzyxte)
 
 ---
 
