@@ -6,4 +6,4 @@
 
 ---
 
-* [2018-03-极致游戏技术雷达](https://sggggy.github.io/docs/radar/company_tech_radar/jzyx_2018_03/index.html)
+* [2018-03-极致游戏技术雷达](https://sggggy.github.io/docs/radar/company_tech_radar/2018_03.html)
