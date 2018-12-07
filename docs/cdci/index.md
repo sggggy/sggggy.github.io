@@ -6,4 +6,5 @@
 
 ---
 
-* [2018-10-16-ChatOps](https://sggggy.github.io/docs/cdci/2018-10-16-chatops)
+* [2018-12-07-一个自动化成功案例](https://sggggy.github.io/docs/cdci/2018-12-07-一个自动化成功案例)
+*  [2018-10-16-ChatOps](https://sggggy.github.io/docs/cdci/2018-10-16-chatops)

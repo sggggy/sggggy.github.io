@@ -39,7 +39,8 @@
 |:-:|:-:|
 |[敏捷 Scrum](https://sggggy.github.io/docs/scrum/index)|[PoseMethod 骑 游 跑](https://sggggy.github.io/docs/posemethod/index)|
 |[持续部署/集成](https://sggggy.github.io/docs/cdci/index)|[我的日志](https://sggggy.github.io/blog/blog_index)|
-|[IT技术](https://sggggy.github.io/docs/it/index)||
+|[IT技术](https://sggggy.github.io/docs/it/index)|[技术雷达](https://sggggy.github.io/docs/radar/index)|
+|[SRE](https://sggggy.github.io/docs/sre/index)||
 
 ---
 
