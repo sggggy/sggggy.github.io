@@ -32,6 +32,7 @@ radar_visualization({
 	// 3 暂缓 环
     //ENTRIES
     entries: [
+	// 技能
         {
             quadrant: 0,
             ring: 0,
@@ -50,7 +51,7 @@ radar_visualization({
         },
 		{
             quadrant: 0,
-            ring: 2,
+            ring: 1,
             label: "教练与唤醒",
             active: false,
             link: "../data_processing/Android.html",
@@ -58,7 +59,7 @@ radar_visualization({
         },
 		{
             quadrant: 0,
-            ring: 3,
+            ring: 1,
             label: "即兴表演",
             active: false,
             link: "../data_processing/Android.html",
@@ -70,6 +71,289 @@ radar_visualization({
             label: "语言学习",
             active: false,
             link: "../data_processing/Android.html",
+            moved: 0
+        },
+	//	技术
+		{
+            quadrant: 1,
+            ring: 0,
+            label: "运维",
+            active: false,
+            link: "../data_processing/Android.html",
+            moved: 0
+        },
+		{
+            quadrant: 1,
+            ring: 0,
+            label: "运维",
+            active: false,
+            link: "../data_processing/Android.html",
+            moved: 0
+        },
+		{
+            quadrant: 1,
+            ring: 0,
+            label: "云计算",
+            active: false,
+            link: "../data_processing/Android.html",
+            moved: 0
+        },
+		{
+            quadrant: 1,
+            ring: 0,
+            label: "翻墙",
+            active: false,
+            link: "../data_processing/Android.html",
+            moved: 0
+        },
+		{
+            quadrant: 1,
+            ring: 1,
+            label: "姿势跑法",
+            active: false,
+            link: "https://sggggy.github.io/docs/posemethod/index",
+            moved: 0
+        },
+		{
+            quadrant: 1,
+            ring: 1,
+            label: "教练",
+            active: true,
+            link: "https://sggggy.github.io",
+            moved: 0
+        },
+		{
+            quadrant: 1,
+            ring: 1,
+            label: "敏捷",
+            active: true,
+            link: "https://sggggy.github.io/docs/scrum/index",
+            moved: 0
+        },
+		{
+            quadrant: 1,
+            ring: 1,
+            label: "极限编程",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 1,
+            ring: 1,
+            label: "持续集成/构建",
+            active: true,
+            link: "",
+            moved: 0
+        },
+	// 工具
+		{
+            quadrant: 2,
+            ring: 0,
+            label: "Coach's Eye",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 0,
+            label: "纸&笔",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 0,
+            label: "白板",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 0,
+            label: "录音笔",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 0,
+            label: "便条贴",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 0,
+            label: "手摇碎纸机",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 2,
+            label: "喵喵/咕咕机",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 0,
+            label: "Ipad Pro",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 0,
+            label: "Macbook air",
+            active: true,
+            link: "",
+            moved: 0
+        },	
+		{
+            quadrant: 2,
+            ring: 3,
+            label: "Iphone XS Max",
+            active: true,
+            link: "",
+            moved: 0
+        },	
+		{
+            quadrant: 2,
+            ring: 0,
+            label: "PlayStation 4",
+            active: true,
+            link: "",
+            moved: 0
+        },	
+		{
+            quadrant: 2,
+            ring: 3,
+            label: "PlayStation Vita",
+            active: true,
+            link: "",
+            moved: 1
+        },	
+		{
+            quadrant: 2,
+            ring: 3,
+            label: "Mac mini",
+            active: true,
+            link: "",
+            moved: 0
+        },	
+		{
+            quadrant: 2,
+            ring: 3,
+            label: "iPad mini 2",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 3,
+            label: "Iphone6s Plus",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 0,
+            label: "Xmind ZEN",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 2,
+            ring: 3,
+            label: "Wii U",
+            active: true,
+            link: "",
+            moved: 0
+        },	
+			{
+            quadrant: 2,
+            ring: 0,
+            label: "Nintendo New 2DSLL",
+            active: true,
+            link: "",
+            moved: 0
+        },		
+	// 平台	
+		{
+            quadrant: 3,
+            ring: 3,
+            label: "为知笔记",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 3,
+            ring: 0,
+            label: "iCloud",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 3,
+            ring: 0,
+            label: "坚果云",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 3,
+            ring: 0,
+            label: "Steam",
+            active: true,
+            link: "",
+            moved: 0
+        },	
+		{
+            quadrant: 3,
+            ring: 0,
+            label: "Sony PlayStation Network",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 3,
+            ring: 0,
+            label: "Sony PlayStation Network",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 3,
+            ring: 0,
+            label: "AWS",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 3,
+            ring: 0,
+            label: "AliCloud",
+            active: true,
+            link: "",
             moved: 0
         },
     ]
