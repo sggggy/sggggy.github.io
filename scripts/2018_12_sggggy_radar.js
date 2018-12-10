@@ -10,9 +10,9 @@ radar_visualization({
     title: "sggggy的技术雷达 — 2018.12",
     quadrants: [
         { name: "技能" },
-        { name: "基础设施与平台" },
+        { name: "技术" },
         { name: "工具" },
-        { name: "技术" }
+        { name: "基础设施与平台" }
     ],
     rings: [
         { name: "采用", color: "#93c47d" },
@@ -77,7 +77,7 @@ radar_visualization({
 		{
             quadrant: 1,
             ring: 0,
-            label: "运维",
+            label: "自由泳",
             active: false,
             link: "../data_processing/Android.html",
             moved: 0
@@ -85,7 +85,7 @@ radar_visualization({
 		{
             quadrant: 1,
             ring: 0,
-            label: "运维",
+            label: "骑行",
             active: false,
             link: "../data_processing/Android.html",
             moved: 0
