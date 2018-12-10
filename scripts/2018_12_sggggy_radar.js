@@ -85,6 +85,14 @@ radar_visualization({
 		{
             quadrant: 1,
             ring: 0,
+            label: "盖洛普优势管理",
+            active: false,
+            link: "../data_processing/Android.html",
+            moved: 0
+        },	
+		{
+            quadrant: 1,
+            ring: 0,
             label: "骑行",
             active: false,
             link: "../data_processing/Android.html",
@@ -335,7 +343,7 @@ radar_visualization({
 		{
             quadrant: 3,
             ring: 0,
-            label: "Sony PlayStation Network",
+            label: "Nintendo Network",
             active: true,
             link: "",
             moved: 0
