@@ -84,7 +84,7 @@ radar_visualization({
         },
 		{
             quadrant: 1,
-            ring: 0,
+            ring: 1,
             label: "盖洛普优势管理",
             active: false,
             link: "../data_processing/Android.html",
