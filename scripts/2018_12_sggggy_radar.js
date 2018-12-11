@@ -249,7 +249,7 @@ radar_visualization({
             label: "PlayStation Vita",
             active: true,
             link: "",
-            moved: 1
+            moved: -1
         },	
 		{
             quadrant: 2,
