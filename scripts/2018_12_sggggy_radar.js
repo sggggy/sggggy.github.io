@@ -299,7 +299,47 @@ radar_visualization({
             link: "",
             moved: 0
         },		
-	// 平台	
+	// 平台
+		{
+            quadrant: 3,
+            ring: 1,
+            label: "可汗学院",
+            active: true,
+            link: "https://khanacademy.org",
+            moved: 0
+        },
+		{
+            quadrant: 3,
+            ring: 1,
+            label: "跑步学院",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 3,
+            ring: 0,
+            label: "Garmin",
+            active: true,
+            link: "",
+            moved: 0
+        },
+		{
+            quadrant: 3,
+            ring: 0,
+            label: "Trainpeaks",
+            active: true,
+            link: "https://app.trainingpeaks.com",
+            moved: 0
+        },
+		{
+            quadrant: 3,
+            ring: 0,
+            label: "TrainerRoad",
+            active: true,
+            link: "http://trainerroad.com",
+            moved: 0
+        },
 		{
             quadrant: 3,
             ring: 3,
