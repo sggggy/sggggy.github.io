@@ -265,7 +265,7 @@ radar_visualization({
             label: "iPad mini 2",
             active: true,
             link: "",
-            moved: 0
+            moved: -1
         },
 		{
             quadrant: 2,
@@ -273,7 +273,7 @@ radar_visualization({
             label: "Iphone6s Plus",
             active: true,
             link: "",
-            moved: 0
+            moved: -1
         },
 		{
             quadrant: 2,
@@ -289,15 +289,15 @@ radar_visualization({
             label: "Wii U",
             active: true,
             link: "",
-            moved: 0
+            moved: -1
         },	
 			{
             quadrant: 2,
             ring: 0,
-            label: "Nintendo New 2DSLL",
+            label: "Nintendo New2DSLL",
             active: true,
             link: "",
-            moved: 0
+            moved: 1
         },		
 	// 平台
 		{
@@ -306,7 +306,7 @@ radar_visualization({
             label: "可汗学院",
             active: true,
             link: "https://khanacademy.org",
-            moved: 0
+            moved: 1
         },
 		{
             quadrant: 3,
@@ -314,7 +314,7 @@ radar_visualization({
             label: "跑步学院",
             active: true,
             link: "",
-            moved: 0
+            moved: 1
         },
 		{
             quadrant: 3,
@@ -330,7 +330,7 @@ radar_visualization({
             label: "Trainpeaks",
             active: true,
             link: "https://app.trainingpeaks.com",
-            moved: 0
+            moved: 1
         },
 		{
             quadrant: 3,
@@ -338,7 +338,7 @@ radar_visualization({
             label: "TrainerRoad",
             active: true,
             link: "http://trainerroad.com",
-            moved: 0
+            moved: 1
         },
 		{
             quadrant: 3,
@@ -382,11 +382,11 @@ radar_visualization({
         },
 		{
             quadrant: 3,
-            ring: 0,
+            ring: 2,
             label: "Nintendo Network",
             active: true,
             link: "",
-            moved: 0
+            moved: 1
         },
 		{
             quadrant: 3,
