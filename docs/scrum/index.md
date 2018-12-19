@@ -6,6 +6,7 @@
 
 ---
 
+* [2018-12-18-App-Store审核-Checklist-其他错误列表](https://sggggy.github.io/docs/scrum/2018-12-18-App-Store审核-Checklist-其他错误列表)
 * [2018-11-30-回顾会](https://sggggy.github.io/docs/scrum/2018-11-30-Retrospectives)
 * [2018-10-15-结对编程](https://sggggy.github.io/docs/scrum/2018-10-15-Pair-Programming)
 * [2018-10-15-如何有效使用JIRA的子任务](https://sggggy.github.io/docs/scrum/2018-10-15-如何有效使用JIRA的子任务)

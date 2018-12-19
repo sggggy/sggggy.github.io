@@ -6,6 +6,7 @@
 
 ---
 
+* [2018-12-15-跑团启蒙公开课回顾](https://sggggy.github.io/docs/posemethod/2018-12-15-跑团启蒙公开课回顾)
 * [2018-12-05-赤足跑跑步日志](https://sggggy.github.io/docs/posemethod/2018-12-05-赤足跑跑步日志)
 * [2018-12-01-姿势跑法LV1认证证书](https://sggggy.github.io/images/certification-Certification-Exam-Level-1_-RTS-认证考试1级-CHEN.DEWEN.pdf)
 * [2018-10-28-Mac下使用dlib的imglab标注图片](https://sggggy.github.io/docs/posemethod/2018-10-28-Mac下使用dlib的imglab标注图片)
