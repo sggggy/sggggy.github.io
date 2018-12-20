@@ -6,7 +6,7 @@
 
 ---
 
-
+* [2018-12-20-洛奇大电影](https://sggggy.github.io/blog/2018-12-20-洛奇大电影)
 * [2018-12-11-2018年总结](https://sggggy.github.io/blog/2018-12-11-2018年总结)
 * [2018-12-05 效率工程部的简单分析](https://sggggy.github.io/blog/2018-12-05-效率工程部的简单分析)
 * [2018-12-04 运维部大电影](https://sggggy.github.io/blog/2018-12-4-运维部大电影)
