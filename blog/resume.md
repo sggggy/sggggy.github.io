@@ -118,7 +118,7 @@
 
 - [敏捷教练](https://www.jianshu.com/nb/29718067)
 
-## 演讲和讲义
+## 演讲与讲义
 
 - [公开讲义](https://www.slideshare.net/sggggy)
 
