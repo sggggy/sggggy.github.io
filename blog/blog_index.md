@@ -5,7 +5,7 @@
 整理与记录生活中的感悟与实践。
 
 ---
-
+* [2018-12-21-Medium摘抄](https://sggggy.github.io/blog/2018-12-21-Medium摘抄)
 * [2018-12-20-洛奇大电影](https://sggggy.github.io/blog/2018-12-20-洛奇大电影)
 * [2018-12-11-2018年总结](https://sggggy.github.io/blog/2018-12-11-2018年总结)
 * [2018-12-05 效率工程部的简单分析](https://sggggy.github.io/blog/2018-12-05-效率工程部的简单分析)
