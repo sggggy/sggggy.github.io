@@ -6,6 +6,7 @@
 
 ---
 
+* [2018-12-25-公司年终述职内容大纲](https://sggggy.github.io/blog/2018-12-25-公司年终述职内容大纲)
 * [2018-12-29-自己的方法论](https://sggggy.github.io/blog/2018-12-29-自己的方法论)
 * [2018-12-21-Medium摘抄](https://sggggy.github.io/blog/2018-12-21-Medium摘抄)
 * [2018-12-20-洛奇大电影](https://sggggy.github.io/blog/2018-12-20-洛奇大电影)
