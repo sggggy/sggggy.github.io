@@ -6,6 +6,7 @@
 
 ---
 
+* [2019-01-07-利用Confluence实践目标和关键结果](https://sggggy.github.io/docs/scrum/2019-01-07-利用Confluence实践目标和关键结果)
 * [2019-01-03-Scrum敏捷框架](https://sggggy.github.io/docs/scrum/2019-01-03-Scrum敏捷框架)
 * [2018-12-18-App-Store审核Checklist_基础错误列表](https://sggggy.github.io/docs/scrum/2018-12-18-App-Store审核Checklist_基础错误列表.html)
 * [2018-12-18-App-Store审核-Checklist-其他错误列表](https://sggggy.github.io/docs/scrum/2018-12-18-App-Store审核-Checklist-其他错误列表.html)
