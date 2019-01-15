@@ -6,6 +6,9 @@
 
 ---
 
+
+* [2019-01-15-适合非专职项目经理的项目管理知识](https://sggggy.github.io/docs/scrum/2019-01-15-适合非专职项目经理的项目管理知识)
+* [2019-01-15-创新推手-多元化](https://sggggy.github.io/docs/scrum/2019-01-15-创新推手-多元化)
 * [2019-01-07-利用Confluence实践目标和关键结果](https://sggggy.github.io/docs/scrum/2019-01-07-利用Confluence实践目标和关键结果)
 * [2019-01-03-Scrum敏捷框架](https://sggggy.github.io/docs/scrum/2019-01-03-Scrum敏捷框架)
 * [2018-12-18-App-Store审核Checklist_基础错误列表](https://sggggy.github.io/docs/scrum/2018-12-18-App-Store审核Checklist_基础错误列表.html)
