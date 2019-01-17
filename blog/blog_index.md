@@ -6,6 +6,8 @@
 
 ---
 
+
+* [2019-01-17-巧舟的逆转裁判开发手记](https://sggggy.github.io/blog/2019-01-17-巧舟的逆转裁判开发手记)
 * [2018-12-25-公司年终述职内容大纲](https://sggggy.github.io/blog/2018-12-25-公司年终述职内容大纲)
 * [2018-12-29-自己的方法论](https://sggggy.github.io/blog/2018-12-29-自己的方法论)
 * [2018-12-21-Medium摘抄](https://sggggy.github.io/blog/2018-12-21-Medium摘抄)
