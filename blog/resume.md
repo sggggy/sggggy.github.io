@@ -128,7 +128,7 @@
 
 - 项目管理：scrum/agile
 - 教练：敏捷/姿势跑法
-- 运维开发devops/chatops：jenkins/mattermost/slack
+- 运维开发devops/chatops/jenkins/mattermost/slack
 - 云服务：alicloud/qcloud/awscloud
 - CD/CI：sonarqube/jenkins
 - 版本管理：Svn/Git/hg/jira/confluence/gittea/gitlab
@@ -139,4 +139,4 @@
 ---
 
 # 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+感谢您花时间阅读我的简历，期待能有机会和您合作。

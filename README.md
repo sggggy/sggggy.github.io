@@ -76,7 +76,7 @@
 - QQ： 29759744
 - [Github](https://github.com/sggggy/sggggy.github.io/issues)
 - [团队知乎专栏](https://zhuanlan.zhihu.com/jzyxte)
-
+- [B站](http://space.bilibili.com/640572) 这里会常规更新各种敏捷和项目管理等视频资料
 ---
 
 ## 小技巧
