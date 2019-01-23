@@ -1,13 +1,9 @@
 # 个人简历
 
----
-
 ## 联系方式
 
 - Email：[sggggy@gmail.com](mailto:sggggy@gmail.com)
 - QQ号：29759744（请注明**来自github.io**）
-
----
 
 ## 个人信息
 
@@ -16,17 +12,16 @@
  - 工作年限：12年
  - 技术博客：http://sggggy.github.io
  - Github：http://github.com/sggggy
- - 期望职位：技术合伙人，运维，项目管理，效率工程总监级职位
- - 期望薪资：税前月薪35-50k
- - 期望城市：厦门，福建省
+ - B站：http://space.bilibili.com/640572/channel/index
+ - 公开讲义：https://www.slideshare.net/sggggy
 
----
+ - 期望职位：技术合伙人，运维，项目管理，效率工程总监级职位
+ - 期望薪资：税前月薪 36-50k
+ - 期望城市：厦门，福建省
 
 ## 工作经历
 
----
-
-## 厦门极致互动网络技术股份有限公司 （ 2011年6月 ~ 至今 ）
+## 厦门极致互动网络技术股份有限公司（ 2011年6月 ~ 至今 ）
 
 ### 任职
 * IT与运维团队负责人
@@ -55,16 +50,12 @@
 6. ITIL管理实践，为内部员工提供优质的IT服务。
 7. ChatOps与DevOps引入与集成。
 
----
-
 ### 主要成果
 
 1. 保障《东方故事》、《魔侠传》、《道友请留步》、《决战荣耀》等游戏上线运维。
 2. 结合云服务，提高运维质量，降低成本。
 3. 拟定部门人员培养战略，针对员工特性进行培养与工作安排，为公司培养了多名可靠运维。
 4. 引入教练模式，引入Scrum，引入OKR，提高项目管理水平。
-
----
 
 ### 项目展示
 
@@ -73,9 +64,7 @@
 |![](https://sggggy.github.io/images/games-ws.png)|[道友请留步](https://itunes.apple.com/cn/app/id874173594)<br />![](https://sggggy.github.io/images/p22.png)|![](https://sggggy.github.io/images/games-jzmy.png)|
 |![](https://sggggy.github.io/images/games-mx.png)|[文明大爆炸](https://itunes.apple.com/cn/app/id1399526309)<br />![](https://sggggy.github.io/images/p29.png)||
 
----
-
-## 厦门吉比特网络技术股份有限公司 （ 2008年6月 ~ 2011年3月 ）
+## 厦门吉比特网络技术股份有限公司（ 2008年6月 ~ 2011年3月 ）
 
 ### IT部门主管
 
@@ -93,8 +82,6 @@
 4. VMware 虚拟化应用推进，部署，维护。
 5. ITIL引入与实施，工作流、服务台、事件管理、问题管理、变更管理、知识库管理等。
 
----
-
 ## 中国电信福建省三明市分公司 （ 2007年7月 ~ 2008年6月 ）
 
 ### 系统维护
@@ -107,22 +94,12 @@
 2. 业务开通系统技术支撑，为营业、10000号提供业务流程的技术咨询，相当于企业内部技术客服。
 3. 企业办公内网外网、终端安全策略部署管理、网络故障分析解决、资产统计。工程项目建设B角。
 
----
+## 开源项目和作品
 
-# 开源项目和作品
-
-## 社区项目
+### 社区项目
  - [Khan Academy translations](https://crowdin.com/profile/sggggy): 可汗学院中文本地化项目
 
-## 技术文章
-
-- [敏捷教练](https://www.jianshu.com/nb/29718067)
-
-## 演讲与讲义
-
-- [公开讲义](https://www.slideshare.net/sggggy)
-
-# 技能清单
+## 技能清单
 
 以下均为我熟练使用的技能
 
@@ -136,7 +113,6 @@
 - SRE
 - IT
 
----
+## 致谢
 
-# 致谢
 感谢您花时间阅读我的简历，期待能有机会和您合作。
