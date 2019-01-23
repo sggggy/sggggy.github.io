@@ -10,10 +10,10 @@
  - 陈德文/男/1984 
  - 本科/吉林大学软件学院计算机科学与技术专业 2007届
  - 工作年限：12年
- - 技术博客：http://sggggy.github.io
- - Github：http://github.com/sggggy
- - B站：http://space.bilibili.com/640572/channel/index
- - 公开讲义：https://www.slideshare.net/sggggy
+ - 技术博客：[http://sggggy.github.io](http://sggggy.github.io)
+ - Github：[http://github.com/sggggy](http://github.com/sggggy)
+ - B站：[http://space.bilibili.com/640572/channel/index](http://space.bilibili.com/640572/channel/index)
+ - 公开讲义：[https://www.slideshare.net/sggggy](https://www.slideshare.net/sggggy)
 
  - 期望职位：技术合伙人，运维，项目管理，效率工程总监级职位
  - 期望薪资：税前月薪 36-50k
