@@ -4,7 +4,7 @@
 
 ## 没有留言系统
 
-需要咨询的同学请在[Issues](https://github.com/sggggy/sggggy.github.io/issues/new/choose)中new单。
+需要咨询的同学请在[Issues](https://github.com/sggggy/sggggy.github.io/issues/new/choose)中new单。 [提问的智慧](https://sggggy.github.io/blog/2019-01-30-howtoaskquestionsthesmartway) 能够帮助你提高问问题的质量和效率。
 
 ---
 
