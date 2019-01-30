@@ -1,3 +1,5 @@
+#提问的智慧
+
 **How To Ask Questions The Smart Way**
 
 Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
@@ -12,11 +14,11 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 协助指出翻译问题，__请[发Issue](https://github.com/ryanhanwu/smartquestions/issues/new)，或直接[发Pull Request](https://github.com/ryanhanwu/smartquestions/compare/)给我。__
 
-本文另有简体中文版: [https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+本文另有繁体中文版: [https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
 ## [原文版本历史](https://github.com/ryanhanwu/smartquestions/blob/master/history.md)
 
-## 目录
+##目录
   * [声明](#声明)
   * [简介](#简介)
   * [在提问之前](#在提问之前)
@@ -263,7 +265,7 @@ Stack Exchange 已经成长到[超过一百个网站](http://stackexchange.com/s
   * 如果你从使用Windows的电脑发送电子邮件，关闭微软愚蠢的```智能引号```功能 （从[选项] > [校订] > [自动校正选项], 按掉```智能引号```单选框），以免在你的邮件中到处散布垃圾字符。
   * 在论坛，勿滥用```表情符号```和```HTML```功能（当它们提供时）。一两个表情符号通常没有问题，但花哨的彩色文本倾向于使人认为你是个无能之辈。过滥地使用表情符号、色彩和字体会使你看来像个傻笑的小姑娘。这通常不是个好主意，除非你只是对sex而不是有用的回复更有兴趣。
 
-如果你使用图形用户界面的邮件程序（如微软公司的Outlook或者其它类似的），注意它们的默认设置不一定满足这些要求。大多数这类程序有基于选单的```查看源代码```命令，用它来检查发送文件夹中的消息，以确保发送的是没有多餘杂质的纯文本文件。
+如果你使用图形用户界面的邮件程序（如微软公司的Outlook或者其它类似的），注意它们的默认设置不一定满足这些要求。大多数这类程序有基于选单的```查看源代码```命令，用它来检查发送文件夹中的消息，以确保发送的是没有多余杂质的纯文本文件。
 
 ### 精确的描述问题并言之有物
 
@@ -618,7 +620,7 @@ RTFM 有一个年轻的亲戚。如果你收到```STFW（Search The Fucking Web�
 
 通过我的提问方法，我给了别人可以咀嚼玩味的东西；我设法让人们很容易参与并且被吸引进来。我显示了自己具备和他们同等的能力，并邀请他们与我共同探讨。通过告诉他们我所走过的弯路，以避免他们再浪费时间，我也表明了对他们宝贵时间的尊重。
 
-事后，当我向每个人表示感谢，并且讚赏这次良好的讨论经歷的时候， 一个 Linux 内核邮件列表的成员表示，他觉得我的问题得到解决并非由于我是这个列表中的**_名人_**，而是因为我用了正确的方式来提问。
+事后，当我向每个人表示感谢，并且赞赏这次良好的讨论经历的时候， 一个 Linux 内核邮件列表的成员表示，他觉得我的问题得到解决并非由于我是这个列表中的**_名人_**，而是因为我用了正确的方式来提问。
 
 黑客从某种角度来说是拥有丰富知识但缺乏人情味的家伙；我相信他是对的，如果我**_像_**个乞讨者那样提问，不论我是谁，一定会惹恼某些人或者被他们忽视。他建议我记下这件事，这直接导致了本指南的出现。
 
@@ -650,7 +652,7 @@ RTFM 有一个年轻的亲戚。如果你收到```STFW（Search The Fucking Web�
 
 尽管对那些懒虫抱怨一声 RTFM 是正当的，能指出文件的位置（即使只是建议个 Google 搜索关键词）会更好。
 
-**_如果你决定回答，就请给出好的答案_**。当别人正在用错误的工具或方法时别建议笨拙的权宜之计（workaround），应推荐更好的工具，重新界定问题。
+**_如果你决定回答，就请给出好的答案_**。当别人正在用错误的工具或方法时别建议笨拙的权宜之计（wordaround），应推荐更好的工具，重新界定问题。
 
 **_正面的回答问题_**！如果这个提问者已经很深入的研究而且也表明已经试过 X 、 Y 、 Z 、 A 、 B 、 C 但没得到结果，回答 ```试试看 A 或是 B``` 或者 ```试试X 、 Y 、 Z 、 A 、 B 、 C``` 并附上一个链接一点用都没有。
 
