@@ -6,7 +6,7 @@
 
 ---
 
-
+* [2019-01-31-教练生涯回顾](https://sggggy.github.io/docs/scrum/2019-01-31-教练生涯回顾)
 * [2019-01-30-P31站会梳理](https://sggggy.github.io/docs/scrum/2019-01-30-P31站会梳理)
 * [2019-01-15-适合非专职项目经理的项目管理知识](https://sggggy.github.io/docs/scrum/2019-01-15-适合非专职项目经理的项目管理知识)
 * [2019-01-15-创新推手-多元化](https://sggggy.github.io/docs/scrum/2019-01-15-创新推手-多元化)
@@ -21,3 +21,4 @@
 * [2018-09-29-Sprint-Cancellation-冲刺取消](https://sggggy.github.io/docs/scrum/2018-09-29-Sprint-Cancellation-冲刺取消)
 * [2018-05-30-体验帆布](https://sggggy.github.io/docs/scrum/2018-05-30-体验帆布)
 * [2018-01-19-如何在JIRA中有效使用关注和@提及](https://sggggy.github.io/docs/scrum/2018-01-19-jirahowtowatchat)
+
