@@ -21,5 +21,7 @@
 * [2018-11-25 什么是元技能](https://sggggy.github.io/blog/2018-11-25-meta-skills)
 * [2018-10-26 36组才干题表现与潜能节选](https://sggggy.github.io/blog/2018-10-26-36组才干题表现与潜能节选)
 * [2018-10-12 导师与教练的区别](https://sggggy.github.io/blog/2018-10-12-coach-mentor)
+* [2018-06-14-大学散伙十一周年纪念](https://sggggy.github.io/blog/2018-06-14-大学散伙十一周年纪念)
 * [2018-01-24 只有三年-黑旗与拾遗](https://sggggy.github.io/blog/2018-01-24-treeyearsofblackflag)
 * [2017-12-31-年度总结-个人篇](https://sggggy.github.io/blog/2017-12-31-年度总结-个人篇)
+* [2011-07-03-散伙四周年纪念](https://sggggy.github.io/blog/2011-07-03-散伙四周年纪念)
