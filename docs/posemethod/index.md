@@ -6,6 +6,7 @@
 
 ---
 
+* [2019-02-09-升糖指数相关食物](https://sggggy.github.io.docs/posemethod/2019-02-09-升糖指数相关食物)
 * [2018-12-29-提升睡眠质量的五项房间调整](https://sggggy.github.io.docs/posemethod/2018-12-29-提升睡眠质量的五项房间调整)
 * [2018-12-29-为什么碳水化合物是耐力性能之王](https://sggggy.github.io.docs/posemethod/2018-12-29-为什么碳水化合物是耐力性能之王)
 * [2018-12-15-跑团启蒙公开课回顾](https://sggggy.github.io/docs/posemethod/2018-12-15-跑团启蒙公开课回顾)
