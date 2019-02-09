@@ -25,4 +25,5 @@
 * [2018-01-24 只有三年-黑旗与拾遗](https://sggggy.github.io/blog/2018-01-24-treeyearsofblackflag)
 * [2017-12-31-年度总结-个人篇](https://sggggy.github.io/blog/2017-12-31-年度总结-个人篇)
 * [2017-11-30-读书笔记](https://sggggy.github.io/blog/2017-11-30-读书笔记)
+* [2016-09-15-运维观察-游戏行业-初始之章](https://sggggy.github.io/blog/2016-09-15-运维观察-游戏行业-初始之章)
 * [2011-07-03-散伙四周年纪念](https://sggggy.github.io/blog/2011-07-03-散伙四周年纪念)
