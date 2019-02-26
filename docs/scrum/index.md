@@ -6,6 +6,7 @@
 
 ---
 
+* [2019-02-26-敏捷常用术语](https://sggggy.github.io/docs/scrum/2019-02-26-敏捷常用术语)
 * [2019-01-31-教练生涯回顾](https://sggggy.github.io/docs/scrum/2019-01-31-教练生涯回顾)
 * [2019-01-30-P31站会梳理](https://sggggy.github.io/docs/scrum/2019-01-30-P31站会梳理)
 * [2019-01-15-适合非专职项目经理的项目管理知识](https://sggggy.github.io/docs/scrum/2019-01-15-适合非专职项目经理的项目管理知识)
