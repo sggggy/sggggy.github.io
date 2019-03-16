@@ -6,7 +6,7 @@
 
 ---
 
-* [2019-03-09-Day-1-姿势跑法LV2训练日志](https://sggggy.github.io/docs/2019-03-09-Day-1-姿势跑法LV2训练日志)
+* [2019-03-09-Day-1-姿势跑法LV2训练日志](https://sggggy.github.io/docs/posemethod/2019-03-09-Day-1-姿势跑法LV2训练日志)
 * [2019-03-03-耐力训练运动者的最佳恢复实践](https://sggggy.github.io/docs/posemethod/2019-03-03-The-Best-Recovery-Practices-for-Endurance-Athletes)
 * [2019-02-11-为什么碳水化合物是耐力性能之王](https://sggggy.github.io/docs/posemethod/2019-02-11-为什么碳水化合物是耐力性能之王)
 * [2019-02-11-骑行者和复合运动者的表现评估测试](https://sggggy.github.io/docs/posemethod/2019-02-11-骑行者和复合运动者的表现评估测试)
