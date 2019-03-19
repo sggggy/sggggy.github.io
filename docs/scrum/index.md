@@ -6,7 +6,7 @@
 
 ---
 
-* [2019-03-19-看看别人如何把站会开翻车](https://sggggy.github.io/scrum/2019-03-19-看看别人如何把站会开翻车)
+* [2019-03-19-看看别人如何把站会开翻车](https://sggggy.github.io/docs/scrum/2019-03-19-看看别人如何把站会开翻车)
 * [2019-02-26-敏捷常用术语](https://sggggy.github.io/docs/scrum/2019-02-26-敏捷常用术语)
 * [2019-01-31-教练生涯回顾](https://sggggy.github.io/docs/scrum/2019-01-31-教练生涯回顾)
 * [2019-01-30-P31站会梳理](https://sggggy.github.io/docs/scrum/2019-01-30-P31站会梳理)
