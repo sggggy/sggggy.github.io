@@ -16,7 +16,7 @@
  - 公开讲义：[https://www.slideshare.net/sggggy](https://www.slideshare.net/sggggy)
 
  - 期望职位：技术合伙人，运维，项目管理，效率工程总监级职位
- - 期望薪资：税前月薪 36-50k
+ - 期望薪资：面议
  - 期望城市：厦门，福建省
 
 ## 工作经历
