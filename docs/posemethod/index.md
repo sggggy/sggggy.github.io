@@ -6,6 +6,7 @@
 
 ---
 
+* [2019-03-21-AT心率计算方法](https://sggggy.github.io/docs/posemethod/2019-03-21-AT心率计算方法)
 * [2019-03-09-Day-1-姿势跑法LV2训练日志](https://sggggy.github.io/docs/posemethod/2019-03-09-Day-1-姿势跑法LV2训练日志)
 * [2019-03-03-耐力训练运动者的最佳恢复实践](https://sggggy.github.io/docs/posemethod/2019-03-03-The-Best-Recovery-Practices-for-Endurance-Athletes)
 * [2019-02-11-为什么碳水化合物是耐力性能之王](https://sggggy.github.io/docs/posemethod/2019-02-11-为什么碳水化合物是耐力性能之王)
@@ -17,3 +18,4 @@
 * [2018-12-05-赤足跑跑步日志](https://sggggy.github.io/docs/posemethod/2018-12-05-赤足跑跑步日志)
 * [2018-12-01-姿势跑法LV1认证证书](https://sggggy.github.io/images/certification-Certification-Exam-Level-1_-RTS-认证考试1级-CHEN.DEWEN.pdf)
 * [2018-10-28-Mac下使用dlib的imglab标注图片](https://sggggy.github.io/docs/posemethod/2018-10-28-Mac下使用dlib的imglab标注图片)
+
