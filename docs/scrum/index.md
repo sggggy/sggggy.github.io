@@ -5,7 +5,7 @@
 整理与记录敏捷实践过程中学习的理论，实践套路和感悟
 
 ---
-
+* [2019-03-25-流言-产品积压表只能由产品负责人维护](https://sggggy.github.io/docs/scrum/2019-03-25-流言-产品积压表只能由产品负责人维护)
 * [2019-03-19-看看别人如何把站会开翻车](https://sggggy.github.io/docs/scrum/2019-03-19-看看别人如何把站会开翻车)
 * [2019-02-26-敏捷常用术语](https://sggggy.github.io/docs/scrum/2019-02-26-敏捷常用术语)
 * [2019-01-31-教练生涯回顾](https://sggggy.github.io/docs/scrum/2019-01-31-教练生涯回顾)
@@ -23,4 +23,3 @@
 * [2018-09-29-Sprint-Cancellation-冲刺取消](https://sggggy.github.io/docs/scrum/2018-09-29-Sprint-Cancellation-冲刺取消)
 * [2018-05-30-体验帆布](https://sggggy.github.io/docs/scrum/2018-05-30-体验帆布)
 * [2018-01-19-如何在JIRA中有效使用关注和@提及](https://sggggy.github.io/docs/scrum/2018-01-19-jirahowtowatchat)
-
