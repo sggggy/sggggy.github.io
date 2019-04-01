@@ -6,7 +6,7 @@
 
 ---
 
-* [2019-03-29-PoseMethod教练名言录](https://sggggy.github.io/posemethod/2019-03-29-PoseMethod教练名言录)
+* [2019-03-29-PoseMethod教练名言录](https://sggggy.github.io/posemethod/2019-03-29-PM教练名言录)
 * [2019-03-21-AT心率计算方法](https://sggggy.github.io/docs/posemethod/2019-03-21-AT心率计算方法)
 * [2019-03-09-Day-1-姿势跑法LV2训练日志](https://sggggy.github.io/docs/posemethod/2019-03-09-Day-1-姿势跑法LV2训练日志)
 * [2019-03-03-耐力训练运动者的最佳恢复实践](https://sggggy.github.io/docs/posemethod/2019-03-03-The-Best-Recovery-Practices-for-Endurance-Athletes)
