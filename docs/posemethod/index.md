@@ -6,6 +6,7 @@
 
 ---
 
+* [2019-04-05-教练面临的问题系列受训者的目标丢失怎么办](https://sggggy.github.io/docs/posemethod/2019-04-05-教练面临的问题系列受训者的目标丢失怎么办)
 * [2019-03-29-PoseMethod教练名言录](https://sggggy.github.io/docs/posemethod/2019-03-29-PM教练名言录)
 * [2019-03-21-AT心率计算方法](https://sggggy.github.io/docs/posemethod/2019-03-21-AT心率计算方法)
 * [2019-03-09-Day-1-姿势跑法LV2训练日志](https://sggggy.github.io/docs/posemethod/2019-03-09-Day-1-姿势跑法LV2训练日志)
