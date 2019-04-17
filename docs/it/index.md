@@ -6,6 +6,7 @@
 
 ---
 
+* [2019-04-17-还记得STORJ吗](https://sggggy.github.io/docs/it/2019-04-17-还记得STORJ吗)
 * [2018-10-25-如何高效开会](https://sggggy.github.io/docs/it/2018-10-25-如何高效开会)
 * [2018-10-17-引入与拥抱-ChatOps](https://sggggy.github.io/docs/it/2018-10-17-引入与拥抱-ChatOps)
 * [2018-10-09 新员工入职IT指南](https://sggggy.github.io/docs/it/2018-10-09-新员工入职IT指南)
