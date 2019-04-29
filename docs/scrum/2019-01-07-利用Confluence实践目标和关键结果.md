@@ -219,3 +219,7 @@ Focus on out*comes*(not out*puts* of effort) that speak to business or customer 
 *我们从这个季度学到了什么？在进入下一季度时，我们是否有好的办法来进一步扩张？*
 
 > **专家提示** 回顾不应该过于关注最终分值，而需要更关注与讨论你在这几季度学习到了什么，并且如何将其应用到下一季度中。
+
+## 感谢您阅读我的文章
+
+![请支持我的创作](https://sggggy.github.io/images/rewards_code.jpg)

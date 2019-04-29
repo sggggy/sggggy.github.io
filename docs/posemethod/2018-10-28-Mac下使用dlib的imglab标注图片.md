@@ -65,3 +65,7 @@ $ ./imglab data.xml
 | 键盘上下键 | 上/下一张图片 |
 | alt+d | 删除当前图片 |
 | 选中+del | 删除标注 |
+
+## 感谢您阅读我的文章
+
+![请支持我的创作](https://sggggy.github.io/images/rewards_code.jpg)
