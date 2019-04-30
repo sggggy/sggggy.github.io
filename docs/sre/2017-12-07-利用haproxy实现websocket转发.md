@@ -69,7 +69,7 @@ Status **code 101** 表示协议切换成功(from http to websocket)。
 
 下图详细说明了每个阶段发生了什么和每个阶段的涉及到的timeout：
 
-![](/assets/timeout_websocket.png)
+![](https://sggggy.github.io/images/timeout_websocket.png)
 
 在链路建立阶段，HAProxy以HTTP模式运行，处理七层的的信息。它会自动检测连接：升级交换，并准备好切换到隧道模式如果升级协商成功。在这个阶段会涉及到3个timeout:
 
