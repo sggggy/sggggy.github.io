@@ -6,6 +6,7 @@
 
 ---
 
+* [2019-04-19 [学习笔记] 组织的力量](https://sggggy.github.io/blog/2019-04-19-ODSduty)
 * [2019-04-06-CEO说人人都应该像企业家一样思考](https://sggggy.github.io/blog/2019-04-06-CEO说人人都应该像企业家一样思考)
 * [2019-04-06-人力资源是CEO的第一工程一个好的HR该做什么](https://sggggy.github.io/blog/2019-04-06-人力资源是CEO的第一工程一个好的HR该做什么)
 * [2019-03-28-人力资源是CEO的第一工程一个好的HR该做什么](https://sggggy.github.io/blog/2019-03-28-人力资源是CEO的第一工程一个好的HR该做什么)
