@@ -9,6 +9,7 @@
 * [2019-03-25-流言：产品积压表只能由产品负责人维护](https://sggggy.github.io/docs/scrum/2019-03-25-流言产品积压表只能由产品负责人维护)
 * [2019-03-19-看看别人如何把站会开翻车](https://sggggy.github.io/docs/scrum/2019-03-19-看看别人如何把站会开翻车)
 * [2019-02-26-敏捷常用术语](https://sggggy.github.io/docs/scrum/2019-02-26-敏捷常用术语)
+* [2019-02-24-新任经理的一些参考建议](https://sggggy.github.io/docs/scrum/2019-02-24-新任经理的一些参考建议)
 * [2019-01-31-教练生涯回顾](https://sggggy.github.io/docs/scrum/2019-01-31-教练生涯回顾)
 * [2019-01-30-P31站会梳理](https://sggggy.github.io/docs/scrum/2019-01-30-P31站会梳理)
 * [2019-01-15-适合非专职项目经理的项目管理知识](https://sggggy.github.io/docs/scrum/2019-01-15-适合非专职项目经理的项目管理知识)
