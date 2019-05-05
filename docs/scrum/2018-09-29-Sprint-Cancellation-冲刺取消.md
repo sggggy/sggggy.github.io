@@ -14,7 +14,7 @@ Scrum指南对 [产品负责人](https://medium.com/serious-scrum/the-product-o
 
 “所有不完整的产品待办事项，都会被重新估计并被放回产品待办事项列表(Product Backlog)中。在这些需求上花费的时间与精力会很快贬值，所以必须定期重新评估。“ - Scrum指南
 
-![emmmm](https://sggggy.github.io/images/2859735-587a9b623ee9c84c.webp)
+![emmmm](https://sggggy.github.io/images/2859735-587a9b623ee9c84c.png)
 
 **产品待办事项项目的更新,是为了让大家知晓哪些待办已经被分析讨论过了，以此来提升团队透明度。**时间拖延越长，事务相关性就越低。任何未完成的工作都会提升项目复杂性，并可能导致技术债务(Technical Debt)。**这些未完成的任务，如果有价值，还可以继续完成，如果造成了浪费，直接移除比较好。**
 
