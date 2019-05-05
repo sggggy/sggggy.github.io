@@ -30,6 +30,7 @@
 * [2018-10-12 导师与教练的区别](https://sggggy.github.io/blog/2018-10-12-coach-mentor)
 * [2018-06-14-大学散伙十一周年纪念](https://sggggy.github.io/blog/2018-06-14-大学散伙十一周年纪念)
 * [2018-03-16-一年份的训练目标](https://sggggy.github.io/blog/2018-03-16-一年份的训练目标)
+* [2018-01-24-只有三年黑旗与拾遗](https://sggggy.github.io/blog/2018-01-24-只有三年黑旗与拾遗)
 * [2018-01-16-极致游戏IT与运维团队年终总结](https://sggggy.github.io/blog/2018-01-16-极致游戏IT与运维团队年终总结)
 * [2018-01-24 只有三年-黑旗与拾遗](https://sggggy.github.io/blog/2018-01-24-treeyearsofblackflag)
 * [2017-12-31-年度总结-个人篇](https://sggggy.github.io/blog/2017-12-31-年度总结-个人篇)
